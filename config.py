@@ -15,7 +15,7 @@ OWNER_ID = int(getenv("OWNER_ID", "7297381612"))
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Moonshining1/CHATBOT")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 SUPPORT_GRP = "grandxmasti"
-UPDATE_CHNL = "kittyxupdates"
+UPDATE_CHNL = "shayariAlfaazonKaAaina"
 OWNER_USERNAME = "moonshining3"
 # GIT TOKEN ( if your edited repo is private)
 GIT_TOKEN = getenv("GIT_TOKEN", "")
