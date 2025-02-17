@@ -17,6 +17,7 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 SUPPORT_GRP = "shayariAlfaazonKaAaina"
 UPDATE_CHNL = "about_moon"
 OWNER_USERNAME = "moonshining3"
+MUST_JOIN = 'btw_moon'
 # GIT TOKEN ( if your edited repo is private)
 GIT_TOKEN = getenv("GIT_TOKEN", "")
     
