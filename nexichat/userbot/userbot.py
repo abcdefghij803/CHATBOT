@@ -25,7 +25,7 @@ class Userbot(Client):
             await self.one.start()
             try:
                 await self.one.join_chat("shayariAlfaazonKaAaina")
-                await self.one.join_chat("ABOUT_ur_moonshining")
+                await self.one.join_chat("btw_moon")
                 await self.one.join_chat("grandxmasti")
                 await self.one.join_chat("kittyxupdates")
 
