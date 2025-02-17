@@ -18,8 +18,8 @@ START = '''```
 ๏ ᴜᴘᴛɪᴍᴇ » {}
 
 ╔═════════════════╗
-║ ˹ ᴧʟʟ ʙσᴛ's ˼ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/NeoUpdatess)  
-║ ˹ ᴅєᴠ ˼ ➪ [kid](https://t.me/TheKidPersonOp)                         
+║ ˹ ᴧʟʟ ʙσᴛ's ˼ ➪ [𝚨ʟ𝔣𝛂𝛂乙𝛐η 𝚱𝛂 𝚲𝛂𝛊֟ η𝛂](https://t.me/shayariAlfaazonKaAaina)  
+║ ˹ ᴅєᴠ ˼ ➪ [🇲σ᭡፝֟ɳ🌙](https://t.me/btw_moon/557)                         
 ╚═════════════════╝
 **'''
 
@@ -49,7 +49,7 @@ TOOLS_DATA_READ = '''```
 ──────────────
 ➻ ᴜsᴇ /repo ᴛᴏ ɢᴇᴛ ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ ᴛʜᴇ ʙᴏᴛ!
 ──────────────
-๏ ᴍᴀᴅᴇ ʙʏ ➪ [kid](https://t.me/TheKidPersonOp) **
+๏ ᴍᴀᴅᴇ ʙʏ ➪ [🇲σ᭡፝֟ɳ🌙](https://t.me/btw_moon/557) **
 '''
 
 CHATBOT_READ = '''```
@@ -73,13 +73,13 @@ CHATBOT_READ = '''```
 ──────────────
 ➻ /idclone [ ᴩʏʀᴏɢʀᴀᴍ ꜱᴛʀɪɴɢ ꜱᴇꜱꜱɪᴏɴ ] - ᴛᴏ ᴍᴀᴋᴇ ɪᴅ-ᴄʜᴀᴛʙᴏᴛ.
 ──────────────
-๏ ᴍᴀᴅᴇ ʙʏ ➪ [kid](https://t.me/TheKidPersonOp) **
+๏ ᴍᴀᴅᴇ ʙʏ ➪ [🇲σ᭡፝֟ɳ🌙](https://t.me/btw_moon/557) **
 '''
 
 SOURCE_READ = '''```
 ๏ ѕυρєя ғᴀsτ【◖ 𝗖υτє 𝗭ογυ ◗ 】ϲнαᴛʙοᴛ ๏```
 
-**❖ ʜᴇʀᴇ ᴏᴜʀ ᴀʟʟ ʙᴏᴛ ᴀʟɪᴠᴇ ᴀʟʟ ʙᴏᴛ ʀᴇᴘᴏ ɪs ᴘʀɪᴠᴀᴛᴇ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ [˹ ᴧʟʟ ʙσᴛ's ˼](https://t.me/NeoUpdatess)**'''
+**❖ ʜᴇʀᴇ ᴏᴜʀ ᴀʟʟ ʙᴏᴛ ᴀʟɪᴠᴇ ᴀʟʟ ʙᴏᴛ ʀᴇᴘᴏ ɪs ᴘʀɪᴠᴀᴛᴇ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ [˹ 𝚨ʟ𝔣𝛂𝛂乙𝛐η 𝚱𝛂 𝚲𝛂𝛊֟ η𝛂 ˼](https://t.me/shayariAlfaazonKaAaina)**'''
 
 ADMIN_READ = f"sᴏᴏɴ"
 
